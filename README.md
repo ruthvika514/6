@@ -12,7 +12,6 @@
     <a href="https://www.google.com" target =" _blank">Go to google</a>
 
     <br>
-
      <a href="https://www.flipkart.com" target ="_blank">Go to flipkart</a>
      <br>
      <a href="xyz.html" target="_blank">go to xyz</a>
